@@ -1,5 +1,7 @@
 # tutorial-go-gin-api
 
+[![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/tutorial-go-gin-api)
+
 A tiny link shortener in Go with Gin, used in the Light Cloud tutorial
 [A Go (Gin) API deployed in five steps](https://blog.light-cloud.com/tutorials/deploy-a-go-api).
 
